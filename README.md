@@ -1,5 +1,4 @@
 使用介绍如下:
-
 nc_server
 nc_server.exe --help //查看工具使用帮助
 nc_server.exe -file/comm "file" -ip "127.0.0.1" -port "5443" -filePath "cmd.exe" -download/execute "execute" //windows 命令执行
